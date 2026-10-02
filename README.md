@@ -4,7 +4,7 @@
 
 ### 🇧🇷 Desenvolvedor de 19 anos, do Brasil
 
-💻 Desenvolvendo aplicações web modernas e aprendendo todos os dias.
+💻 Desenvolvedor em formação, focado em desenvolvimento web, automação e backend.
 
 <a href="https://github.com/lucascunha-web">
   <img src="https://img.shields.io/badge/GitHub-lucascunha--web-181717?style=for-the-badge&logo=github" alt="GitHub">
@@ -19,15 +19,15 @@
 
 ## 🚀 Sobre mim
 
-- 🇧🇷 Brasileiro, apaixonado por tecnologia e programação.
-- 💻 Desenvolvedor em formação, com foco em aplicações web.
-- 🛠️ Trabalho com HTML, CSS, JavaScript, Python e Firebase.
-- 📚 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
-- 🎯 Meu objetivo é criar aplicações modernas, funcionais e eficientes.
+* 🇧🇷 Brasileiro, apaixonado por tecnologia e programação.
+* 💻 Desenvolvedor em formação, com foco em aplicações web e backend.
+* 🛠️ Experiência com desenvolvimento web, automação e integração com serviços.
+* 📚 Sempre estudando novas tecnologias e aprimorando minhas habilidades.
+* 🎯 Busco desenvolver aplicações modernas, funcionais e eficientes.
 
 ---
 
-## 🧰 Tecnologias
+## 🧰 Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -35,14 +35,22 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="HTML, CSS, JavaScript e Python">
 
-### 🔥 Banco de dados e ferramentas
+### ⚛️ Desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=react,nodejs" alt="React e Node.js">
+
+<br><br>
+
+### 🗄️ Banco de Dados & Serviços
 
 <a href="https://firebase.google.com/">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </a>
-<a href="https://playwright.dev/python/">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
-</a>
+
+<br><br>
+
+### 🛠️ Ferramentas & Bibliotecas
+
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </a>
@@ -52,6 +60,9 @@
 <a href="https://code.visualstudio.com/">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
 </a>
+<a href="https://playwright.dev/python/">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+</a>
 
 </div>
 
@@ -59,53 +70,27 @@
 
 ## 💻 Projetos
 
-### 🕶️ Sistema de Gestão — Óticas Diniz
+### 🕶️ Projetos para Ótica
 
-Sistema web desenvolvido para auxiliar na gestão de uma ótica, com funcionalidades administrativas e ferramentas para operações do dia a dia.
+Desenvolvimento de aplicações para **gestão e automação de processos em óticas**, utilizando tecnologias web e Python.
 
-**Tecnologias utilizadas:**
-- HTML5
-- CSS3
-- JavaScript
-- Firebase
+#### 🏪 Sistema de Gestão — Óticas Diniz
 
-**Destaques:**
-- Interface web para operações da loja.
-- Área de login e painel administrativo.
-- Funcionalidades para controle de caixa.
-- Integração com Firebase para armazenamento e gerenciamento de dados.
+Sistema web para auxiliar nas operações e gestão de uma ótica.
 
-<div align="center">
+**Tecnologias:** HTML, CSS, JavaScript e Firebase.
 
 <a href="https://github.com/lucascunha-web/oticasdiniz">
-  <img src="https://img.shields.io/badge/Ver_projeto_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
+  <img src="https://img.shields.io/badge/Ver_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
 </a>
 
-</div>
+#### 🤖 Automação de Pedidos
 
----
+Aplicação desktop em Python criada para **automatizar processos de pedidos e coleta de dados em uma ótica**.
 
-### 🤖 Automação de Pedidos — Python
+**Tecnologias:** Python, Playwright, Tkinter, OpenPyXL, PyMuPDF e JSON.
 
-Aplicação desktop desenvolvida em Python para automatizar processos de coleta de dados e realização de pedidos em plataformas web.
-
-**Tecnologias utilizadas:**
-- Python
-- Playwright
-- Tkinter
-- OpenPyXL
-- PyMuPDF
-- JSON
-
-**Destaques:**
-- Automação de navegação e interação com páginas web usando Playwright.
-- Coleta e processamento de informações.
-- Leitura de planilhas Excel.
-- Extração de informações de documentos PDF.
-- Interface gráfica desenvolvida com Tkinter.
-- Automatização de etapas de pedidos em diferentes plataformas.
-
-🔒 **Código-fonte privado:** o projeto utiliza credenciais e informações confidenciais. Por isso, o código original não está disponível publicamente.
+🔒 **Código-fonte privado**, devido ao uso de credenciais e informações confidenciais.
 
 ---
 
@@ -123,9 +108,9 @@ Aplicação desktop desenvolvida em Python para automatizar processos de coleta 
 
 ## 🌱 Minha jornada
 
-Estou sempre explorando novas tecnologias, desenvolvendo projetos e aprimorando meus conhecimentos em programação.
+Estou sempre estudando, desenvolvendo projetos e explorando novas tecnologias.
 
-Acredito que cada projeto é uma oportunidade de aprender algo novo e evoluir como desenvolvedor.
+Meu objetivo é evoluir como desenvolvedor **full-stack**, com foco principalmente em **backend, APIs, bancos de dados e desenvolvimento de aplicações web**.
 
 ---
 
