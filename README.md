@@ -40,6 +40,9 @@
 <a href="https://firebase.google.com/">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </a>
+<a href="https://playwright.dev/python/">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+</a>
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </a>
@@ -51,6 +54,58 @@
 </a>
 
 </div>
+
+---
+
+## 💻 Projetos
+
+### 🕶️ Sistema de Gestão — Óticas Diniz
+
+Sistema web desenvolvido para auxiliar na gestão de uma ótica, com funcionalidades administrativas e ferramentas para operações do dia a dia.
+
+**Tecnologias utilizadas:**
+- HTML5
+- CSS3
+- JavaScript
+- Firebase
+
+**Destaques:**
+- Interface web para operações da loja.
+- Área de login e painel administrativo.
+- Funcionalidades para controle de caixa.
+- Integração com Firebase para armazenamento e gerenciamento de dados.
+
+<div align="center">
+
+<a href="https://github.com/lucascunha-web/oticasdiniz">
+  <img src="https://img.shields.io/badge/Ver_projeto_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
+</a>
+
+</div>
+
+---
+
+### 🤖 Automação de Pedidos — Python
+
+Aplicação desktop desenvolvida em Python para automatizar processos de coleta de dados e realização de pedidos em plataformas web.
+
+**Tecnologias utilizadas:**
+- Python
+- Playwright
+- Tkinter
+- OpenPyXL
+- PyMuPDF
+- JSON
+
+**Destaques:**
+- Automação de navegação e interação com páginas web usando Playwright.
+- Coleta e processamento de informações.
+- Leitura de planilhas Excel.
+- Extração de informações de documentos PDF.
+- Interface gráfica desenvolvida com Tkinter.
+- Automatização de etapas de pedidos em diferentes plataformas.
+
+🔒 **Código-fonte privado:** o projeto utiliza credenciais e informações confidenciais. Por isso, o código original não está disponível publicamente.
 
 ---
 
