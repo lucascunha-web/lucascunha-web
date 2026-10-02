@@ -6,7 +6,12 @@
 
 💻 Desenvolvendo aplicações web modernas e aprendendo todos os dias.
 
-[![GitHub](https://img.shields.io/badge/GitHub-lucascunha--web-181717?style=for-the-badge&logo=github)](https://github.com/lucascunha-web)
+<a href="https://github.com/lucascunha-web">
+  <img src="https://img.shields.io/badge/GitHub-lucascunha--web-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://www.instagram.com/lucas.scunhaa">
+  <img src="https://img.shields.io/badge/Instagram-lucas.scunhaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 </div>
 
@@ -26,13 +31,24 @@
 
 <div align="center">
 
-### Linguagens e desenvolvimento
+### 💻 Linguagens
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python" alt="HTML, CSS, JavaScript e Python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python" alt="HTML, CSS, JavaScript e Python">
 
-### Ferramentas e plataformas
+### 🔥 Banco de dados e ferramentas
 
-<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode" alt="Firebase, Git, GitHub e VS Code" />
+<a href="https://firebase.google.com/">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</a>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+</a>
 
 </div>
 
@@ -42,9 +58,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucascunha-web&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucascunha-web&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascunha-web&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascunha-web&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
 
 </div>
 
@@ -60,13 +76,16 @@ Acredito que cada projeto é uma oportunidade de aprender algo novo e evoluir co
 
 <div align="center">
 
-### 💬 Vamos nos conectar!
+## 💬 Vamos nos conectar!
 
 <a href="https://github.com/lucascunha-web">
-  <img src="https://img.shields.io/badge/Meu_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.instagram.com/lucas.scunhaa">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
-<br/><br/>
+<br><br>
 
 **Obrigado pela visita!** ⭐
 
