@@ -35,20 +35,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="HTML, CSS, JavaScript e Python">
 
-### ⚛️ Desenvolvimento
-
-<img src="https://skillicons.dev/icons?i=react,nodejs" alt="React e Node.js">
-
-<br><br>
-
-### 🗄️ Banco de Dados & Serviços
-
-<a href="https://firebase.google.com/">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-</a>
-
-<br><br>
-
 ### 🛠️ Ferramentas & Bibliotecas
 
 <a href="https://git-scm.com/">
@@ -60,10 +46,6 @@
 <a href="https://code.visualstudio.com/">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
 </a>
-<a href="https://playwright.dev/python/">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
-</a>
-
 </div>
 
 ---
