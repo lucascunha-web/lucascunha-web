@@ -35,7 +35,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="HTML, CSS, JavaScript e Python">
 
-### 🛠️ Ferramentas & Bibliotecas
+### 🛠️ Ferramentas
 
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
