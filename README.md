@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Lucas Cunha!
+# 👋 Hi, I'm Lucas Cunha!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web+e+Backend;Focado+em+Automa%C3%A7%C3%A3o+%26+Sistemas;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Web+%26+Backend+Developer;Focused+on+Automation+%26+Systems;Passionate+about+Technology" alt="Typing SVG" />
 
 <p align="center">
-  🇧🇷 Desenvolvedor de 19 anos, do Brasil — Em busca de evolução constante.
+  🇧🇷 19-year-old Developer from Brazil — Always striving for constant growth.
 </p>
 
 <p align="center">
@@ -21,61 +21,68 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-- 🇧🇷 Brasileiro, apaixonado por tecnologia e programação.
-- 💻 Desenvolvedor em formação, com foco em aplicações web e backend.
-- 🛠️ Experiência com desenvolvimento web, automação e integração de serviços.
-- 📚 Sempre estudando novas tecnologias e aprimorando minhas habilidades.
-- 🎯 Busco desenvolver aplicações modernas, funcionais e eficientes.
+- 🇧🇷 Brazilian, passionate about technology and software development.
+- 💻 Developer in training, with a strong focus on web applications and backend systems.
+- 🛠️ Hands-on experience with web development, automation, and service integration.
+- 📚 Continuously learning new technologies and sharpening my skills.
+- 🎯 Focused on building modern, functional, and efficient applications.
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+## 🌐 Languages
+
+- 🇧🇷 **Portuguese:** Native
+- 🇺🇸 **English:** Intermediate (B1)
+
+---
+
+## 🧰 Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Linguagens & Tecnologias Web
+### 💻 Languages & Web Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,git,github,vscode" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,git,github,vscode" alt="Technologies" />
 </p>
 
 </div>
 
 ---
 
-## 💻 Projetos em Destaque
+## 💻 Featured Projects
 
-### 🕶️ Soluções para Óticas
-Desenvolvimento de aplicações voltadas para **gestão e automação de processos em óticas**, unindo tecnologias web e soluções robustas em Python.
+### 🕶️ Optical Retail Solutions
+Developing tailored applications for **process automation and operational management in optical retail**, combining modern web technologies with robust Python tools.
 
-#### 🏪 Sistema de Gestão — Óticas Diniz
-Sistema web desenvolvido para auxiliar nas operações e controle do dia a dia de uma ótica.
-* **Tecnologias:** HTML, CSS, JavaScript e Firebase.
+#### 🏪 Management System — Óticas Diniz
+Web-based application designed to streamline day-to-day retail operations and inventory/sales tracking.
+- **Technologies:** HTML, CSS, JavaScript, Firebase.
 
 <a href="https://github.com/lucascunha-web/oticasdiniz">
-  <img src="https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View project">
 </a>
 
-#### 🤖 Automação de Pedidos
-Aplicação desktop em Python criada para automatizar fluxos de pedidos e coleta de dados.
-* **Tecnologias:** Python, Playwright, Tkinter, OpenPyXL, PyMuPDF e JSON.
+#### 🤖 Order Automation Tool
+Desktop application built in Python to automate order processing workflows and data extraction.
+- **Technologies:** Python, Playwright, Tkinter, OpenPyXL, PyMuPDF, JSON.
 
-🔒 *Código-fonte privado por conter credenciais e dados confidenciais.*
+🔒 *Private repository due to sensitive credentials and confidential business data.*
 
 ---
 
-## 🌱 Minha jornada
+## 🌱 My Journey
 
-Estou constantemente estudando, criando projetos autorais e explorando novas ferramentas. 
+I am constantly studying, building personal projects, and exploring new tools.
 
-Meu objetivo de carreira é me consolidar como desenvolvedor **full-stack**, aprofundando cada vez mais meus conhecimentos em **backend, arquitetura de APIs, bancos de dados e automação**.
+My career goal is to consolidate my profile as a **Full-Stack Developer**, deepening my expertise in **backend engineering, API architecture, databases, and automation**.
 
 ---
 
 <div align="center">
 
-## 💬 Vamos nos conectar?
+## 💬 Let's Connect!
 
 <p>
   <a href="https://github.com/lucascunha-web">
@@ -88,6 +95,6 @@ Meu objetivo de carreira é me consolidar como desenvolvedor **full-stack**, apr
 
 <br>
 
-**Obrigado pela visita!** ⭐
+**Thanks for visiting!** ⭐
 
 </div>
