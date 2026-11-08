@@ -22,6 +22,11 @@
 - 🤖 Interested in AI, APIs and software engineering.
 - 🎯 Working towards becoming a Full Stack Developer.
 
+## 🌎 Languages
+
+- 🇧🇷 Portuguese: Native
+- 🇺🇸 English: Intermediate (B1)
+
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -46,24 +51,3 @@
 - SQL & Relational Databases
 - Software Architecture
 - Advanced JavaScript & Python
-
-## 🌎 Languages
-
-- 🇧🇷 Portuguese: Native
-- 🇺🇸 English: Intermediate (B1)
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lucascunha-web&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascunha-web&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
-**⭐ Building solutions & leveling up every day.**
-
-</div>
