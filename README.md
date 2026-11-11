@@ -10,9 +10,9 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-lucascunha--web-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucascunha-web)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-dos-santos-cunha-a5a118287/)
-[![Instagram](https://img.shields.io/badge/Instagram-lucas.scunhaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.scunhaa)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucascunha-web)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-dos-santos-cunha-a5a118287/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.scunhaa)
 
 </div>
 
