@@ -39,9 +39,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no Brasil, focado em des
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [🕶️ Óticas Diniz](https://github.com/lucascunha-web/oticasdiniz) | Sistema de gerenciamento desenvolvido com HTML, JS e CSS, utilizando Firebase como banco de dados. | HTML, CSS, JS, Firebase |
-| 🤖 Order Automation | Automação de pedidos e documentos utilizando Python com ênfase em Playwright, Tkinter (interface gráfica) e manipulação de PDF. | Python, Playwright, Tkinter, PyMuPDF |
-| [🌱 Green Petroil](https://github.com/lucascunha-web/Green-Petroil) | Projeto acadêmico de desenvolvimento web utilizando Angular e JSON Server como backend/API/banco de dados. | Angular, TypeScript, JSON Server |
+| [🕶️ Óticas Diniz](https://github.com/lucascunha-web/oticasdiniz) | Sistema de gerenciamento para Óticas | HTML, CSS, JS, Firebase |
+| 🤖 Order Automation | Interface de automação de pedidos de produtos ópticos | Python, Playwright, Tkinter, PyMuPDF |
+| [🌱 Green Petroil](https://github.com/lucascunha-web/Green-Petroil) | Projeto acadêmico de uma Landing Page para um Petrolífera | Angular, TypeScript, JSON Server |
 
 ## 📚 Estudando Atualmente
 
