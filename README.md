@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # 👋 Hi, I'm Lucas Cunha!
 
@@ -17,10 +17,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Software Analysis and Development student.
-- 💻 Focused on Web Development, Backend and Automation.
-- 🤖 Interested in AI, APIs and software engineering.
-- 🎯 Working towards becoming a Full Stack Developer.
+Sou estudante de Análise e Desenvolvimento de Sistemas no Brasil, focado em desenvolvimento web, backend e automação. Tenho grande interesse em inteligência artificial, APIs e engenharia de software, trabalhando continuamente para evoluir minhas habilidades e consolidar minha trajetória rumo a uma atuação completa como Full Stack Developer.
 
 ## 🌎 Languages
 
@@ -29,13 +26,11 @@
 
 ## 🧰 Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,angular,firebase,git,github,vscode" />
-
-</div>
-
-**Libraries & Tools:** Playwright, Tkinter, OpenPyXL, PyMuPDF.
+| Category | Technologies |
+|---|---|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=python,firebase" /> |
+| **Tools & Automation** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <br> Playwright, Tkinter, OpenPyXL, PyMuPDF |
 
 ## 💻 Featured Projects
 
